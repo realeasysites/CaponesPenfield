@@ -1,0 +1,134 @@
+{
+  "categories": [
+    {
+      "name": "Specialty Pizza",
+      "note": "Every specialty comes Medium, XL or by the Sheet.",
+      "items": [
+        ["The Antonia", "Red sauce, mozzarella, pepperoni, banana peppers, ricotta and hot honey.", "M $21 · XL $30 · Sheet $43"],
+        ["The Paisan", "Red sauce, mozzarella, pepperoni, sausage and meatball.", "M $21 · XL $30 · Sheet $43"],
+        ["Bronx Bomber", "Steak, green peppers, onions and mushrooms, drizzled with Capone's sweet & spicy sauce.", "M $21 · XL $30 · Sheet $43"],
+        ["Vodka Sausage", "White base, mozzarella and sausage, drizzled with vodka sauce.", "M $21 · XL $30 · Sheet $43"],
+        ["Pollo Pazzo", "White base, mozzarella, crispy chicken and hot peppers with Capone's sweet & spicy.", "M $21 · XL $30 · Sheet $43"],
+        ["Margherita", "Red sauce, fresh mozzarella, fresh basil and garlic oil.", "M $21 · XL $30 · Sheet $43"],
+        ["The Supremo", "Red sauce, mozzarella, pepperoni, sausage, onions, green peppers and mushrooms.", "M $21 · XL $30 · Sheet $43"],
+        ["Buffalo Chicken", "White base, mozzarella, crispy chicken, tomatoes, celery and blue cheese crumbles with buffalo drizzle.", "M $21 · XL $30 · Sheet $43"],
+        ["Chicken Bacon Ranch", "White base, mozzarella, grilled chicken and bacon, drizzled with ranch.", "M $21 · XL $30 · Sheet $43"],
+        ["Spinach & Artichoke", "White base, mozzarella, spinach, artichokes and ricotta.", "M $21 · XL $30 · Sheet $43"],
+        ["Vegetariano", "White base, mozzarella, mushrooms, artichokes, onions and broccoli.", "M $21 · XL $30 · Sheet $43"],
+        ["Pineapple Vacation", "White base, bacon, ham and pineapple, drizzled with sweet & sour sauce.", "M $21 · XL $30 · Sheet $43"]
+      ]
+    },
+    {
+      "name": "Traditional Pizza",
+      "note": "NYC-style, fresh from the oven. Your choice of sauce and toppings.",
+      "items": [
+        ["Build Your Own 14\"", "Choice of sauces and toppings.", "$17+"],
+        ["Build Your Own 18\"", "Choice of sauces and toppings.", "$24"],
+        ["Build Your Own Sheet", "Choice of sauces and toppings. Feeds the whole crew.", "$33"],
+        ["Cheese Slice", "", "$5.50"],
+        ["Specialty Slice", "", "$6.50"],
+        ["Lunch Special", "", "$5.75"]
+      ]
+    },
+    {
+      "name": "Hot Subs",
+      "note": "Fresh-breaded cutlets, made to order.",
+      "items": [
+        ["The Greg Dezio", "Breaded cutlet, prosciutto, fresh mozzarella, lettuce, tomato, onion, hot peppers and garlic mayo.", "$14+"],
+        ["Big Milanese", "Breaded chicken cutlet, roasted red peppers, fresh mozzarella, arugula, garlic mayo, red onion, balsamic glaze and fresh-squeezed lemon.", "$14+"],
+        ["The Mobster", "Fresh breaded cutlet, fresh mozzarella, sautéed broccoli rabe and house pesto.", "$14+"],
+        ["Vodka Chicken Parm", "Fresh cutlets topped with house vodka sauce, mozzarella and a pesto drizzle.", "$14+"],
+        ["Chicken Parm Sub", "Fresh breaded cutlet with marinara and mozzarella.", "$14+"],
+        ["The Caesar Cutlet", "Chicken cutlet, roasted red peppers, red onion, romaine, Parm, Caesar dressing and hot honey.", "$14+"],
+        ["Philly Cheesesteak", "Chopped steak, green peppers, onions and mozzarella.", "$15.50+"],
+        ["Chicken Philly", "Chopped grilled chicken, green peppers, onions and mozzarella with house dressing.", "$14+"],
+        ["Hot Roast Beef", "Shaved roast beef, melted provolone, caramelized onions and au jus.", "$14+"],
+        ["Buffalo Chicken", "Breaded cutlet tossed in buffalo, lettuce, tomato and blue cheese dressing.", "$14+"],
+        ["Bacon Cheeseburger", "Beef patty, bacon, American, lettuce, tomato, onion, pickles and house burger sauce.", "$14+"],
+        ["Capone's BLT", "Bacon, lettuce, tomato and mayo.", "$14+"]
+      ]
+    },
+    {
+      "name": "Cold Subs",
+      "note": "Stacked deli-style on fresh bread.",
+      "items": [
+        ["The Capone", "Salami, capicola, ham, provolone, lettuce, tomato, onion, hot peppers, pickles, mayo and house dressing.", "$12+"],
+        ["Godfather", "Roast beef, capicola, turkey, lettuce, tomato, onion, banana peppers and mayo.", "$12+"],
+        ["The Dominic", "Salami, prosciutto, fresh mozzarella, roasted reds, banana peppers, mayo and balsamic glaze.", "$12+"],
+        ["The Nathalie", "Prosciutto, ham, fresh mozzarella, arugula, tomato, garlic mayo and balsamic glaze.", "$12+"],
+        ["The Carmella", "Ham, turkey, roast beef, Swiss, lettuce, tomato, roasted reds and horsey mayo.", "$12+"],
+        ["Antonia Caprese", "Grilled chicken, fresh mozzarella, arugula, tomato and balsamic glaze.", "$12+"],
+        ["Salad Sub", "Tuna salad or chicken salad with lettuce, tomato, onion and mayo.", "$12+"],
+        ["Build Your Own", "Your meats, your cheese, your way.", "$12"]
+      ]
+    },
+    {
+      "name": "Capone's Pasta",
+      "note": "",
+      "items": [
+        ["Chicken Riggies", "Pasta in spicy marinara with hot peppers and grilled chicken.", "$24"],
+        ["Vodka Chicken Parm", "Pasta in vodka sauce with a breaded cutlet under melted mozzarella.", "$21"],
+        ["Chicken Parmesan", "Pasta in red sauce with a breaded cutlet under melted mozzarella.", "$21"],
+        ["Broccoli Chicken Alfredo", "Pasta with grilled chicken and broccoli in Alfredo.", "$21"]
+      ]
+    },
+    {
+      "name": "Huge Calzones",
+      "note": "",
+      "items": [
+        ["Taste of Italy", "Pepperoni, ham, capicola, mozzarella and ricotta.", "$20"],
+        ["Three Cheese", "Mozzarella, Parmesan and ricotta.", "$20"],
+        ["Buffalo Chicken", "Crispy buffalo chicken, mozzarella, ricotta and blue cheese crumbles.", "$20"],
+        ["Spinach & Artichoke", "Spinach, artichoke, mozzarella, Parmesan and ricotta.", "$20"],
+        ["Veggie", "Green pepper, red onion, broccoli, mushroom, olives, mozzarella and ricotta.", "$20"]
+      ]
+    },
+    {
+      "name": "Salads",
+      "note": "",
+      "items": [
+        ["Antipasto Salad", "Romaine mix, tomato, onion, black olives, banana peppers, salami, capicola and pepperoni.", "$16"],
+        ["Buffalo Chicken Salad", "Romaine mix, crispy buffalo chicken, tomatoes, onions and blue cheese crumbles.", "$13"],
+        ["Caesar Salad", "Romaine, Parmesan and croutons with creamy Caesar.", "$13"],
+        ["House Salad", "Romaine mix, tomatoes, onions, cucumbers, black olives and housemade croutons.", "$11"]
+      ]
+    },
+    {
+      "name": "Appetizers & Sides",
+      "note": "",
+      "items": [
+        ["Wings (10)", "", "$16"],
+        ["Breaded Wings (10)", "", "$17"],
+        ["Boneless Wings", "", "$14"],
+        ["Chicken Fingers (5)", "", "$14"],
+        ["Mozzarella Sticks (6)", "", "$10"],
+        ["Garlic Fries", "", "$8"],
+        ["French Fries", "", "$7"]
+      ]
+    },
+    {
+      "name": "Desserts",
+      "note": "",
+      "items": [
+        ["Baker's Specialty Dessert", "Ask what's on the counter today.", "$8"],
+        ["Cheesecake Cone", "", "$5"],
+        ["Brownie", "", "$4.50"],
+        ["Karen's Cookies", "", "$3.75"]
+      ]
+    },
+    {
+      "name": "Beverages",
+      "note": "",
+      "items": [
+        ["Manhattan Special", "Regular or diet espresso soda.", "$4"],
+        ["Brooklyn Best Teas", "", "$3.75"],
+        ["Joe's Teas", "", "$4.60"],
+        ["Dino Luzzi Energy", "", "$3.75"],
+        ["Ferrarelle Water", "Sparkling $3.75 · Still $3.25", "$3.25+"],
+        ["20oz Soda", "", "$2.89"],
+        ["2 Liter Soda", "", "$4"],
+        ["Bottled Water", "", "$2.60"]
+      ]
+    }
+  ]
+}
